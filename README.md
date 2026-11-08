@@ -112,7 +112,3 @@ Thresholds are at the top of `driver_monitor.py`, for example `DISTRACT_SEC`, `E
 
 - Alert sounds: Windows uses `winsound`, macOS uses `afplay`, Linux uses `paplay` or `aplay` (falls back to the terminal bell).
 - This is a student/research project and **not** a certified safety product.
-
-## License
-
-Add your license here (for example, MIT).
